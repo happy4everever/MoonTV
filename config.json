@@ -1,7 +1,7 @@
 {
   "cache_time": 7200,
   "api_site": {
-         "jszyapi-com":{
+    "jszyapi-com":{
      "name": "极速资源",
     "api": "https://jszyapi.com/api.php/provide/vod",
     "detail": "https://jszyapi.com"
@@ -61,8 +61,8 @@
     "api": "https://iqiyizyapi.com/api.php/provide/vod",
     "detail": "https://iqiyizyapi.com"
   },
-       "zuida-xyz",
-    {"name": "最大资源":
+       "zuida-xyz":
+    {"name": "最大资源",
     "api": "https://api.zuidapi.com/api.php/provide/vod",
     "detail": "https://zuida.xyz"
   },
